@@ -1,6 +1,8 @@
 # 💫 About Me:
 Hola, soy David "Forest" G. R.<br><br>Desarrollador Fullstack, estudiante de Ingeniería de Sistemas y Computación en la Universidad del Quindío.<br><br>Abierto a proyectos desafiantes.<br><br>:3
 
+Mi portafolio: cruiserex.vercel.app
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/david_gr_am/#) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-g%C3%B3mez-r-bbb782252/) 
