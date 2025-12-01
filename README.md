@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hola, soy David "Forest" G. R.<br><br>Desarrollador Fullstack, estudiante de Ingeniería de Sistemas y Computación en la Universidad del Quindío.<br><br>Abierto a proyectos desafiantes.<br><br>:3
 
-Mi portafolio: cruiserex.vercel.app
+Mi portafolio: https://cruiserex.vercel.app/
 
 
 ## 🌐 Socials:
